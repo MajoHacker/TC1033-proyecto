@@ -13,4 +13,4 @@ Cuenta con 3 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h"
 Además cuenta con el programa principal "proyect.cpp"
 
 # Importante 
-Para esta entrega solo se realizarón las clases y se comprobaron con valores establecidos que se calculara el precio de cada clase y el costo total del viaje
+Para esta entrega solo se realizarón las clases y se da la oportunidad al usuario de poner valores para comprobar que las clases funcionan
