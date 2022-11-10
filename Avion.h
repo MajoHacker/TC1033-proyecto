@@ -8,7 +8,7 @@ class Avion{
         tipo_vuelo = tipo_vue;
     }
     int resultado_vuelo(){
-        return pasajeros*tipo_vuelo;
+        return pasajeros*tipo_vuelo*2;
     }
     // Getters
     int getPasajeros(){
@@ -25,5 +25,3 @@ class Avion{
         tipo_vuelo = tipo_vue;
     }
 };
-
-
