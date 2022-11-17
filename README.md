@@ -13,4 +13,4 @@ Cuenta con 3 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h"
 Además cuenta con el programa principal "proyect.cpp"
 
 # Importante 
-Para esta entrega solo se realizarón las clases y se da la oportunidad al usuario de poner valores para comprobar que las clases funcionan
+Para la entrega del diagrama UML se agrego el archivo "Viaje.h", sin embargo su implementación en el codigo aun no esta ya que hay varias dudas acerca de la programación
