@@ -8,9 +8,9 @@ El proyecto pide al usuario los valores iniciales que el tiene considerado, post
 # Consideraciones
 El programa esta hecho con c++ 
 
-Cuenta con 3 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h"
+Cuenta con 4 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h", "Viaje.h"
 
 Además cuenta con el programa principal "proyect.cpp"
 
 # Importante 
-Para la entrega del diagrama UML se agrego el archivo "Viaje.h", sin embargo su implementación en el codigo aun no esta ya que hay varias dudas acerca de la programación
+El proyecto ya te da recomendaciones para modificar el precio de tu viaje 
