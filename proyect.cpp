@@ -15,6 +15,8 @@ int main(){
     int mejora_partidos;
     int nuevo_partidos;
     int res_mejora;
+    
+    cout<<"Los precios que el programa te solicita, es un aproximado a la cantidad que estas dispuesto a pagar"<<endl;
 
     int num_pasajero;
     int precio_vuelo;
