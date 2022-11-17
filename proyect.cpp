@@ -1,9 +1,8 @@
 # include <iostream>
 using namespace std;
 
-# include "Avion.h"
-# include "Hotel.h"
-# include "Partidos.h"
+# include "Viaje.h"
+
 
 int main(){
     int final_mejora;
@@ -15,7 +14,7 @@ int main(){
     int mejora_partidos;
     int nuevo_partidos;
     int res_mejora;
-    
+
     cout<<"Los precios que el programa te solicita, es un aproximado a la cantidad que estas dispuesto a pagar"<<endl;
 
     int num_pasajero;
@@ -45,7 +44,8 @@ int main(){
     cout<<"El costo de partidos es: "<<nuevo_partidos<<endl;
 
     int total;
-    total=nuevo_vuelo+nuevo_hotel+nuevo_partidos;
+    Viaje p4(nuevo_vuelo,nuevo_hotel,nuevo_partidos);
+    total=p4.costo_viaje();
     cout<<"\nEl costo total del viaje es: "<<total<<endl;
 
 
