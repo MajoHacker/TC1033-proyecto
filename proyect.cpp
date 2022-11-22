@@ -108,7 +108,7 @@ int main(){
     if (res_mejora==0){
         final_mejora = nuevo_vuelo+nuevo_hotel+nuevo_partidos;
         cout<<"Perfecto hemos terminado la creación de tu viaje, el costo será de:\n"<<final_mejora<<" pesos"<<endl;
-        return false;
+        break;
     }
     }
     return 0;
