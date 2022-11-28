@@ -13,4 +13,4 @@ Cuenta con 4 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h", "Viaje.h"
 Además cuenta con el programa principal "proyect.cpp"
 
 # Importante 
-El proyecto ya te da recomendaciones para modificar el precio de tu viaje 
+Se han realizado todas las mejoras de tal manera que el programa ya funciona al 100%
