@@ -8,7 +8,7 @@ El proyecto pide al usuario los valores iniciales que el tiene considerado, post
 # Consideraciones
 El programa esta hecho con c++ 
 
-Cuenta con 4 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h", "Viaje.h"
+Cuenta con 5 clases llamadas "Avion.h" , "Hotel.h", "Partidos.h", "Viaje.h", "Tipo.h"
 
 Además cuenta con el programa principal "proyect.cpp"
 
