@@ -1,12 +1,16 @@
+// Incluir la clase avion (para heredar)
 #include "Avion.h"
-
+// Crear la clase Tipo
 class Tipo:public Avion{
     private:
+        // Declarar los atributos de la clase
         int pasajeros_discapacidad;
     public:
+        // Constructor de la clase
         Tipo(int pasajero, int tipo_vue,int pasajeros_dis):Avion(pasajero, tipo_vue){
             pasajeros_discapacidad = pasajeros_dis;
         }
+        // Métodos
         int resultado_pasajeros(){
             return (pasajeros)-(pasajeros_discapacidad);
         }
